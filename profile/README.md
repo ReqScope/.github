@@ -1,3 +1,1 @@
-## Hi there 👋
-
-## ReqScope set information from inboxes free
+## ReqScope sets information from inboxes free
